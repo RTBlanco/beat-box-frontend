@@ -1,8 +1,9 @@
 import './App.css';
+import Header from './containers/Header';
 
 function App() {
   return (
-   <h1>beatbox!!!</h1>
+   <Header />
   );
 }
 
