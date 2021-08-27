@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar {
+  font-family: Nico Moji;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 11px;
+
+  text-align: center;
+  letter-spacing: -0.04em;
+  color: #4349CD;
+  padding: 0 16px;
+}
+
+#navbar ul {
+  display: flex;
+  justify-content: space-between;
+}
