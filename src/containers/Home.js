@@ -1,6 +1,9 @@
+import './Home.css'
 const Home = () => {
   return (
-    <p>this the Home ! </p>
+    <div id="home">
+
+    </div>
   )
 }
 
