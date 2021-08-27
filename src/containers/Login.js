@@ -4,7 +4,7 @@ import boombox from '../assets/boombox.png'
 const Login = () => {
   return (
     <div className="login-area">
-      <img id="boombox" src={boombox} alt="" />
+      <img id="boombox" src={boombox} alt="boombox" />
     </div>
   )
 }

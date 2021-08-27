@@ -4,7 +4,7 @@ const Register = () => {
   return (
     <div id="register-area">
       <img id='back-img' src={dude} alt="some guy chilling" />
-      <div id="content">
+      <div id="reg-content">
         <h2>Looking to start your music exploration journey?</h2>
         <button className="light-btn">Get Started</button>
       </div>
