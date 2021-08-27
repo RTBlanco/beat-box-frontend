@@ -8,7 +8,10 @@ body {
   background: linear-gradient(180deg, rgba(67, 73, 205, 0.1) 42.71%, rgba(245, 243, 248, 0.1) 100%), #0F051F;
   height: 100vh;
 }
-
+@font-face {
+  font-family: "NicoMoji";
+  src: url('./assets/NicoMoji-Regular.ttf');
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

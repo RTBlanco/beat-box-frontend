@@ -3,8 +3,53 @@
   /* background-color: rgba(15, 5, 31, 1); */
 }
 
+#home h2 {
+  position: absolute;
+  width: 239px;
+  height: 32px;
+  left: 47px;
+  top: 250px;
+
+  /* Design System/H2 */
+
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  /* identical to box height, or 178% */
+
+  text-transform: capitalize;
+
+  color: #F5F3F8;
+}
+
 img {
   width: 81%;
   float: right;
-  z-index: -1;
+  /* z-index: -1;
+  position: absolute;
+  width: 368px;
+  height: 397px;
+  left: 92px;
+  top: 144px; */
+
 }
+
+.lime-btn {
+  font-family: "NicoMoji";
+  font-style: normal;
+  font-weight: normal;
+  
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 36px;
+  background-color: rgba(207, 255, 0, 1);
+
+  position: absolute;
+  padding: 8px;
+  left: 10.22%;
+  right: 61.09%;
+  /* top: 29.68%; */
+  bottom: 50.35%;
+}
+
