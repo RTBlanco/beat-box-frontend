@@ -1,14 +1,9 @@
-#home {
-  /* height: 828px; */
-  /* background-color: rgba(15, 5, 31, 1); */
-}
-
 #home h2 {
   position: absolute;
   width: 239px;
   height: 32px;
-  left: 47px;
-  top: 250px;
+  /* left: 47px;
+  top: 250px; */
 
   /* Design System/H2 */
 
@@ -44,12 +39,10 @@ img {
   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 36px;
   background-color: rgba(207, 255, 0, 1);
-
-  position: absolute;
   padding: 8px;
-  left: 10.22%;
-  right: 61.09%;
-  /* top: 29.68%; */
-  bottom: 50.35%;
+
+  /* position: absolute;
+  left: 47px;
+  top: 40vh; */
 }
 
