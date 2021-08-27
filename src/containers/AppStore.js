@@ -1,5 +1,6 @@
 import './AppStore.css';
 import { ReactComponent as BeetBox } from '../assets/beatBox-black-logo.svg'
+import apps from '../assets/apps.png'
 
 const AppStore = () => {
   return (
@@ -8,6 +9,7 @@ const AppStore = () => {
         <p>GET</p>
         <BeetBox />
       </div>
+      <img src={apps} alt="apps" />
     </div>
   )
 }

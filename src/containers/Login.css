@@ -1,6 +1,7 @@
-#login-area {
+.login-area {
   display: flex;
   flex-direction: column;
+  height: 238px;
 }
 
 #boombox {
