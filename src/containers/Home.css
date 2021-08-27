@@ -1,5 +1,10 @@
 #home {
-  height: 828px;
-  background-color: rgba(15, 5, 31, 1);
+  /* height: 828px; */
+  /* background-color: rgba(15, 5, 31, 1); */
 }
 
+img {
+  width: 81%;
+  float: right;
+  z-index: -1;
+}
