@@ -1,6 +1,23 @@
 #header {
-  
+  background-image: url('../assets/header-background.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+#header-logo {
+  margin-top: 23px;
+}
+
+#header, h2 {
+  margin-top: 5px;
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  text-transform: capitalize;
+  color: #F5F3F8;
 }
 
 
