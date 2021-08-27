@@ -1,0 +1,55 @@
+#about-area {
+  /* width: 461px; */
+  /* margin-top: 0px; */
+  height: 160px;
+  background: #0F051F;
+  padding: 10px 25px;
+  position: absolute;
+}
+
+#about-area h2 {
+  margin-top: 0;
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  letter-spacing: 0.01em;
+
+  color: #9CA0FF;
+
+}
+
+#about-area-text {
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 12px;
+  /* or 96% */
+
+  letter-spacing: 0.01em;
+
+  color: #F5F3F8;
+}
+
+#links {
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 24px;
+  /* identical to box height, or 218% */
+
+  letter-spacing: 0.01em;
+
+  color: #9CA0FF ;
+}
+
+#logo-sm {
+  /* position: absolute; */
+  float: right;
+  margin-top: -30px;
+}

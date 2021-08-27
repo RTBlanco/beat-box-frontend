@@ -4,6 +4,7 @@ import Navbar from './containers/Navbar';
 import Register from './containers/Register';
 import Login from './containers/Login';
 import AppStore from './containers/AppStore';
+import About from './containers/About';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Register />
       <Login />
       <AppStore />
+      <About />
     </>
   );
 }
