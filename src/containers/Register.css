@@ -1,9 +1,9 @@
-#home {
+#register-area {
   display: flex;
   flex-direction: column;
 }
 
-#home h2 {
+#register-area h2 {
   width: 239px;
   
   /* Design System/H2 */
@@ -25,7 +25,7 @@ img {
   align-self: flex-end;
 }
 
-.lime-btn {
+.light-btn {
   font-family: "NicoMoji";
   font-style: normal;
   font-weight: normal;
