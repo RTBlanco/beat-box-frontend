@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgba(118, 33, 253, 0.493)
+  background-color: rgb(43 4 121 / 65%);
 
 }
 
@@ -20,7 +20,6 @@
   line-height: 32px;
   text-transform: capitalize;
   color: #F5F3F8;
-
 }
 
 

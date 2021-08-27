@@ -1,6 +1,4 @@
-// import BeatBoxLogo from "../components/BeatBoxLogo";
 import {ReactComponent as BeatBoxLogo} from '../assets/beatBox-header-logo.svg';
-// import {ReactComponent as HeaderBackground} from '../assets/header-background.png';
 import './Header.css'
 
 const Header = ()=> {
