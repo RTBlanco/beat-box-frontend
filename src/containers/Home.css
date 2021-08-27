@@ -1,10 +1,11 @@
-#home h2 {
-  position: absolute;
-  width: 239px;
-  height: 32px;
-  /* left: 47px;
-  top: 250px; */
+#home {
+  display: flex;
+  flex-direction: column;
+}
 
+#home h2 {
+  width: 239px;
+  
   /* Design System/H2 */
 
   font-family: MS UI Gothic;
@@ -21,14 +22,7 @@
 
 img {
   width: 81%;
-  float: right;
-  /* z-index: -1;
-  position: absolute;
-  width: 368px;
-  height: 397px;
-  left: 92px;
-  top: 144px; */
-
+  align-self: flex-end;
 }
 
 .lime-btn {
@@ -46,3 +40,24 @@ img {
   top: 40vh; */
 }
 
+#content {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 11vh;
+}
+
+#description {
+  font-family: MS UI Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  text-align: center;
+  letter-spacing: 0.01em;
+
+  color: #F5F3F8;
+
+  border: 0.1px solid #F5F3F8;
+}
