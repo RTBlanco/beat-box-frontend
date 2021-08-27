@@ -1,0 +1,26 @@
+#app-store {
+  height: 127px;
+  background: #F5F3F8;
+}
+
+#app-store p {
+  align-self: center;
+  margin: 0;
+  font-family: "NicoMoji";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 24px;
+  /* or 86% */
+
+  letter-spacing: -0.015em;
+
+  color: #4349CD;
+}
+
+
+#logo-text {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+}
