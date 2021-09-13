@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/beat-box-frontend/static/css/main.34a4d40d.chunk.css",
+    "main.js": "/beat-box-frontend/static/js/main.dada837c.chunk.js",
+    "main.js.map": "/beat-box-frontend/static/js/main.dada837c.chunk.js.map",
+    "runtime-main.js": "/beat-box-frontend/static/js/runtime-main.7a581642.js",
+    "runtime-main.js.map": "/beat-box-frontend/static/js/runtime-main.7a581642.js.map",
+    "static/js/2.766cb239.chunk.js": "/beat-box-frontend/static/js/2.766cb239.chunk.js",
+    "static/js/2.766cb239.chunk.js.map": "/beat-box-frontend/static/js/2.766cb239.chunk.js.map",
+    "index.html": "/beat-box-frontend/index.html",
+    "static/css/main.34a4d40d.chunk.css.map": "/beat-box-frontend/static/css/main.34a4d40d.chunk.css.map",
+    "static/js/2.766cb239.chunk.js.LICENSE.txt": "/beat-box-frontend/static/js/2.766cb239.chunk.js.LICENSE.txt",
+    "static/media/Afropunk.61633c26.png": "/beat-box-frontend/static/media/Afropunk.61633c26.png",
+    "static/media/index.css": "/beat-box-frontend/static/media/NicoMoji-Regular.61a60055.ttf",
+    "static/media/apps.bb14f56b.png": "/beat-box-frontend/static/media/apps.bb14f56b.png",
+    "static/media/beatBox-black-logo.24cb22ef.svg": "/beat-box-frontend/static/media/beatBox-black-logo.24cb22ef.svg",
+    "static/media/beatBox-header-logo.d715e94e.svg": "/beat-box-frontend/static/media/beatBox-header-logo.d715e94e.svg",
+    "static/media/Login.css": "/beat-box-frontend/static/media/boombox-overlay.7ca03266.png",
+    "static/media/boombox.3a0550fb.png": "/beat-box-frontend/static/media/boombox.3a0550fb.png",
+    "static/media/Header.css": "/beat-box-frontend/static/media/header-background.f3234849.png",
+    "static/media/logo.4f5cca9e.svg": "/beat-box-frontend/static/media/logo.4f5cca9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a581642.js",
+    "static/js/2.766cb239.chunk.js",
+    "static/css/main.34a4d40d.chunk.css",
+    "static/js/main.dada837c.chunk.js"
+  ]
+}
